@@ -1,0 +1,11 @@
+rho = 2.7e3 # density of quartz (kg.m-3)
+E = 94e9 # Young Modulus (Pa)
+nu = 0.17 # Poisson's ratio
+g = 9.81
+r=1
+dt=1e-4
+alpha=1
+Nx=10
+Ny=10
+frames=1e4
+skip_frames=1e2

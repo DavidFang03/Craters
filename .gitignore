@@ -3,3 +3,12 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
+
+# Ignorer tous les fichiers et dossiers par défaut
+/*
+
+# Ne pas ignorer les dossiers spécifiques
+!simulation/
+!multiprocessing/
+!cuda/
+!alpha/

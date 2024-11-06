@@ -11,4 +11,5 @@ __pycache__/
 # !simulation/
 !multiprocessing/
 !cudav1/
+!v2/
 # !alpha/

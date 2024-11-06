@@ -8,7 +8,7 @@ __pycache__/
 /*
 
 # Ne pas ignorer les dossiers spécifiques
-!simulation/
+# !simulation/
 !multiprocessing/
-!cuda/
-!alpha/
+!cudav1/
+# !alpha/

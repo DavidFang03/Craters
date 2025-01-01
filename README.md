@@ -7,3 +7,6 @@ Ce projet a pour objet la simulation de milieux granulaires à l'aide de la mét
 2. **Simulation** : Simulation principale ainsi que les résultats obtenus.
 3. **Multiprocessing** : Tentative d'implémentation de multiprocessing. S'est avérée être plus lente.
 4. **Cuda** : Tentative d'implémentation de CUDA. Abandonnée car trop complexe.
+
+https://github.com/user-attachments/assets/0f21c730-5d64-4927-b800-69c6268af3a0
+

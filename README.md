@@ -1,4 +1,4 @@
-# Simulation de Milieux Granulaires
+# Simulation de milieux granulaires
 
 Ce projet a pour objet la simulation de milieux granulaires à l'aide de la méthode des éléments discrets (DEM). Le projet explore différentes approches pour améliorer les performances de la simulation.
 
